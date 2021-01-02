@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:7000
+From: webmaster@localhost
+To: staff1@gmail.com
+Date: Fri, 20 Nov 2020 07:52:03 -0000
+Message-ID: <160585872365.4628.9482124592815848519@HP-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:7000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:7000/accounts/reset/Mg/5lr-832a35d81657e7a97720/
+
+Your username, in case you’ve forgotten: staff1
+
+Thanks for using our site!
+
+The 127.0.0.1:7000 team
+
+
+
+-------------------------------------------------------------------------------
